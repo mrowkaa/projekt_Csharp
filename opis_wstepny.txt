@@ -1,0 +1,7 @@
+Paulina Szymanel
+Akademia C# 2017 - grupa zaawansowana
+
+PROJEKT – opis wstêpny
+Formularz zg³oszeniowy na zawody sportowe
+Cel projektu: aplikacja bêdzie pozwala³a na rejestracjê zawodników na dane zawody sportowe oraz bêdzie tworzy³a listê zawodników utworzon¹ do tej pory, któr¹ (nie ze wszystkimi danymi) bêdzie mo¿na wyœwietliæ. Zg³oszenie bêdzie mog³o byæ edytowane po podaniu okreœlonego has³a, indywidualnego dla ka¿dego zawodnika. Zg³oszenie obejmuje wybór rodzaju zawodów, p³ci, kategorii wagowej, deklaracji osi¹gniêtych do tej pory wyników oraz wpisanie danych osobowych z warunkiem ¿e jeden klub sportowy mo¿e wystawiæ jednego zawodnika na dan¹ kategoriê. 
+Technologia: Windows Form Application
